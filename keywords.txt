@@ -1,0 +1,42 @@
+###################################
+# Syntax Coloring Map For MowerWC20-1
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+OLED_Display		KEYWORD1
+Joystick		KEYWORD1
+Switch			KEYWORD1
+Potentiometer		KEYWORD1
+Motor			KEYWORD1
+CutterMotor		KEYWORD1
+ChassisMotor		KEYWORD1
+CombineMotor		KEYWORD1
+LED			KEYWORD1
+Mower			KEYWORD1
+NRF24L01_controller	KEYWORD1
+NRF24L01_chassis	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+ping	KEYWORD2
+ping_in	KEYWORD2
+ping_cm	KEYWORD2
+ping_median	KEYWORD2
+ping_timer	KEYWORD2
+check_timer	KEYWORD2
+ping_result	KEYWORD2
+timer_us	KEYWORD2
+timer_ms	KEYWORD2
+timer_stop	KEYWORD2
+convert_in	KEYWORD2
+convert_cm	KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
+
