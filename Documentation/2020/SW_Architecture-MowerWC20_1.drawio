@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="SWA-Chassis_Controller" id="V9_sgylLY13-RrZF2kRn">
+    <mxGraphModel dx="683" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0WgHnWldT6W92WCzuErA-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="130" width="340" x="120" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="0WgHnWldT6W92WCzuErA-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Business (IO)" vertex="1">
+          <mxGeometry height="40" width="145" x="140" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="0WgHnWldT6W92WCzuErA-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Communication" vertex="1">
+          <mxGeometry height="40" width="300" x="140" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="0WgHnWldT6W92WCzuErA-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Display" vertex="1">
+          <mxGeometry height="40" width="145" x="295" y="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
